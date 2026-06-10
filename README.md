@@ -1,3 +1,16 @@
+##RAG智能问答系统
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![LangChain](https://img.shields.io/badge/LangChain-0.1+-green)
+![Redis](https://img.shields.io/badge/Redis-Vector%20DB-red)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+## 📑 目录
+- [项目简介](#项目简介)
+- [效果对比](#效果对比)
+- [技术栈](#技术栈)
+- [如何运行](#如何运行)
+- [优化记录](#优化记录)
+- [未来计划](#未来计划)
 ## 项目简介
 基于 LangChain + Redis 的本地 PDF 问答系统。通过 RAG 技术让大模型根据文档内容回答问题。  
 **亮点**：独立解决了财报 PDF 中表格提取混乱的问题。
