@@ -1,4 +1,4 @@
-##RAG智能问答系统
+# RAG 智能问答系统（支持表格解析优化）
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![LangChain](https://img.shields.io/badge/LangChain-0.1+-green)
 ![Redis](https://img.shields.io/badge/Redis-Vector%20DB-red)
